@@ -1,4 +1,16 @@
 # College-ERP
+![image](https://user-images.githubusercontent.com/61457302/124952283-bcc55380-e031-11eb-97f4-78a99a2b2bd5.png)
+
+#marks page
+![image](https://user-images.githubusercontent.com/61457302/124952346-c949ac00-e031-11eb-9cd1-d990a1addcf0.png)
+
+
+#attendence page
+![image](https://user-images.githubusercontent.com/61457302/124952408-d6669b00-e031-11eb-9427-08abe7e59912.png)
+
+#time table page
+![image](https://user-images.githubusercontent.com/61457302/124952456-e1b9c680-e031-11eb-9309-94d5214b3aeb.png)
+
 A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 
 ## Installation
